@@ -3,8 +3,7 @@ It is a word puzzle game made with Unity.
 
 Home page 
 
-
-<img src= "https://github.com/edaaeer/WordGame-GameProject/blob/main/images/men%C3%BC.png" width="250, height = "250" />
+<img src="https://github.com/edaaeer/WordGame-GameProject/blob/main/images/men%C3%BC.png" width="200" height="400" />
 
 Category page
 ![aca3411a-7d3d-49e3-ac88-99be9877c2ba](https://github.com/edaaeer/WordGame-GameProject/assets/135263131/e3d87b16-7204-4485-b7d6-d0f43bd736eb)
