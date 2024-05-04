@@ -1,7 +1,8 @@
 # WordGame-GameProject
 It is a word puzzle game made with Unity.
 
-Home page
+Home page 
+\n
 ![menü](https://github.com/edaaeer/WordGame-GameProject/assets/135263131/c505f111-4aa9-46e6-a44d-164afb165109)
 
 Category page
