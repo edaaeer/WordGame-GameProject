@@ -2,8 +2,9 @@
 It is a word puzzle game made with Unity.
 
 Home page 
-/n
+
 ![menü](https://github.com/edaaeer/WordGame-GameProject/assets/135263131/c505f111-4aa9-46e6-a44d-164afb165109)
+<img src= "https://github.com/edaaeer/WordGame-GameProject/assets/135263131/c505f111-4aa9-46e6-a44d-164afb165109.png" width="250, height = "250" />
 
 Category page
 ![aca3411a-7d3d-49e3-ac88-99be9877c2ba](https://github.com/edaaeer/WordGame-GameProject/assets/135263131/e3d87b16-7204-4485-b7d6-d0f43bd736eb)
