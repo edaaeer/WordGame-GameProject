@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11b2fdeb58f56224f915775012b444e9, type: 3}
+  m_Name: Animal2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - L
+    - G
+    - Q
+    - L
+    - C
+    - I
+    - B
+    - J
+    - S
+    - T
+  - Size: 10
+    Row:
+    - B
+    - J
+    - P
+    - F
+    - W
+    - G
+    - U
+    - H
+    - H
+    - G
+  - Size: 10
+    Row:
+    - E
+    - E
+    - W
+    - L
+    - H
+    - G
+    - T
+    - U
+    - O
+    - P
+  - Size: 10
+    Row:
+    - E
+    - F
+    - A
+    - S
+    - G
+    - W
+    - T
+    - C
+    - R
+    - X
+  - Size: 10
+    Row:
+    - O
+    - D
+    - T
+    - R
+    - Q
+    - J
+    - E
+    - V
+    - S
+    - B
+  - Size: 10
+    Row:
+    - U
+    - X
+    - R
+    - E
+    - S
+    - M
+    - R
+    - O
+    - E
+    - A
+  - Size: 10
+    Row:
+    - W
+    - I
+    - P
+    - M
+    - B
+    - T
+    - F
+    - E
+    - L
+    - W
+  - Size: 10
+    Row:
+    - O
+    - V
+    - I
+    - U
+    - E
+    - Q
+    - L
+    - Q
+    - D
+    - F
+  - Size: 10
+    Row:
+    - C
+    - H
+    - P
+    - C
+    - H
+    - T
+    - Y
+    - M
+    - P
+    - W
+  - Size: 10
+    Row:
+    - V
+    - I
+    - D
+    - O
+    - N
+    - K
+    - E
+    - Y
+    - D
+    - X
+  SearchWords:
+  - Word: BEAR
+  - Word: BEE
+  - Word: BUTTERFLY
+  - Word: COW
+  - Word: DONKEY
+  - Word: HORSE

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11b2fdeb58f56224f915775012b444e9, type: 3}
+  m_Name: Work1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 30
+  Columns: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - C
+    - P
+    - W
+    - D
+    - F
+    - J
+  - Size: 6
+    Row:
+    - Z
+    - B
+    - P
+    - E
+    - O
+    - H
+  - Size: 6
+    Row:
+    - F
+    - A
+    - X
+    - C
+    - U
+    - A
+  - Size: 6
+    Row:
+    - V
+    - K
+    - K
+    - X
+    - Z
+    - M
+  - Size: 6
+    Row:
+    - R
+    - E
+    - M
+    - R
+    - A
+    - F
+  - Size: 6
+    Row:
+    - Y
+    - R
+    - P
+    - S
+    - W
+    - N
+  SearchWords:
+  - Word: FARMER
+  - Word: BAKER
+  - Word: JOCKEY

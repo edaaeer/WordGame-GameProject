@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11b2fdeb58f56224f915775012b444e9, type: 3}
+  m_Name: plants2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - G
+    - M
+    - Q
+    - O
+    - Y
+    - A
+    - P
+    - Y
+    - A
+    - J
+  - Size: 10
+    Row:
+    - E
+    - V
+    - B
+    - N
+    - D
+    - C
+    - O
+    - H
+    - H
+    - Q
+  - Size: 10
+    Row:
+    - N
+    - K
+    - X
+    - A
+    - O
+    - A
+    - W
+    - U
+    - E
+    - L
+  - Size: 10
+    Row:
+    - Q
+    - D
+    - I
+    - H
+    - C
+    - C
+    - R
+    - O
+    - L
+    - B
+  - Size: 10
+    Row:
+    - V
+    - K
+    - H
+    - M
+    - Y
+    - Y
+    - C
+    - K
+    - L
+    - L
+  - Size: 10
+    Row:
+    - I
+    - K
+    - C
+    - L
+    - B
+    - A
+    - Z
+    - T
+    - L
+    - Q
+  - Size: 10
+    Row:
+    - O
+    - S
+    - G
+    - I
+    - U
+    - G
+    - T
+    - D
+    - U
+    - Q
+  - Size: 10
+    Row:
+    - L
+    - N
+    - B
+    - L
+    - S
+    - H
+    - B
+    - C
+    - P
+    - V
+  - Size: 10
+    Row:
+    - E
+    - G
+    - U
+    - A
+    - N
+    - B
+    - Y
+    - L
+    - I
+    - L
+  - Size: 10
+    Row:
+    - T
+    - F
+    - Q
+    - C
+    - E
+    - M
+    - E
+    - S
+    - N
+    - H
+  SearchWords:
+  - Word: LILAC
+  - Word: ACACIA
+  - Word: LILY
+  - Word: LUPIN
+  - Word: ORCHID
+  - Word: VIOLET

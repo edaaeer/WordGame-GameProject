@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11b2fdeb58f56224f915775012b444e9, type: 3}
+  m_Name: Countries2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - N
+    - E
+    - G
+    - D
+    - S
+    - X
+    - G
+    - X
+    - T
+    - Z
+  - Size: 10
+    Row:
+    - A
+    - O
+    - E
+    - P
+    - J
+    - A
+    - R
+    - B
+    - T
+    - E
+  - Size: 10
+    Row:
+    - K
+    - U
+    - R
+    - O
+    - F
+    - G
+    - J
+    - U
+    - R
+    - X
+  - Size: 10
+    Row:
+    - P
+    - H
+    - M
+    - W
+    - W
+    - H
+    - R
+    - W
+    - K
+    - Q
+  - Size: 10
+    Row:
+    - S
+    - Y
+    - A
+    - U
+    - A
+    - K
+    - O
+    - W
+    - G
+    - B
+  - Size: 10
+    Row:
+    - G
+    - L
+    - N
+    - N
+    - E
+    - Y
+    - Y
+    - E
+    - T
+    - R
+  - Size: 10
+    Row:
+    - U
+    - A
+    - Y
+    - Y
+    - B
+    - E
+    - K
+    - Z
+    - K
+    - A
+  - Size: 10
+    Row:
+    - Y
+    - L
+    - V
+    - V
+    - C
+    - V
+    - O
+    - D
+    - G
+    - Z
+  - Size: 10
+    Row:
+    - D
+    - R
+    - K
+    - B
+    - C
+    - D
+    - T
+    - S
+    - Q
+    - I
+  - Size: 10
+    Row:
+    - I
+    - T
+    - A
+    - L
+    - Y
+    - R
+    - I
+    - C
+    - P
+    - L
+  SearchWords:
+  - Word: TURKEY
+  - Word: "BRAZ\u0130L"
+  - Word: ITALY
+  - Word: TOKYO
+  - Word: GERMANY
+  - Word: NORWAY

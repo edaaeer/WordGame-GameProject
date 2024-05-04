@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11b2fdeb58f56224f915775012b444e9, type: 3}
+  m_Name: Toys1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 30
+  Columns: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - U
+    - X
+    - L
+    - L
+    - P
+    - C
+  - Size: 6
+    Row:
+    - U
+    - B
+    - L
+    - H
+    - A
+    - C
+  - Size: 6
+    Row:
+    - E
+    - A
+    - N
+    - R
+    - R
+    - D
+  - Size: 6
+    Row:
+    - I
+    - L
+    - T
+    - U
+    - L
+    - S
+  - Size: 6
+    Row:
+    - R
+    - L
+    - D
+    - O
+    - L
+    - L
+  - Size: 6
+    Row:
+    - P
+    - U
+    - F
+    - G
+    - C
+    - M
+  SearchWords:
+  - Word: BALL
+  - Word: CAR
+  - Word: DOLL

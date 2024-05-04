@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11b2fdeb58f56224f915775012b444e9, type: 3}
+  m_Name: Animal1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 30
+  Columns: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - T
+    - B
+    - U
+    - C
+    - C
+    - Q
+  - Size: 6
+    Row:
+    - T
+    - O
+    - J
+    - A
+    - Z
+    - X
+  - Size: 6
+    Row:
+    - J
+    - O
+    - R
+    - T
+    - D
+    - T
+  - Size: 6
+    Row:
+    - B
+    - W
+    - X
+    - R
+    - K
+    - P
+  - Size: 6
+    Row:
+    - G
+    - H
+    - K
+    - E
+    - A
+    - N
+  - Size: 6
+    Row:
+    - G
+    - O
+    - D
+    - O
+    - M
+    - P
+  SearchWords:
+  - Word: CAT
+  - Word: DOG
+  - Word: PARROT
